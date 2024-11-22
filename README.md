@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/engbnyarambi">Programmer</a>, <a href="https://www.linkedin.com/in/engbnyarambi/">/a></h1>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/engbnyarambi">Programmer, <a href="https://www.linkedin.com/in/engbnyarambi/">and Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
