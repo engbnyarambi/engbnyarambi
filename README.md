@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Philanthropist | Engineer</div>
+### <div align="center">Philanthropist ❤️ Engineer 🧑‍💻</div>
 
 ---
 
