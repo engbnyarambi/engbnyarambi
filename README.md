@@ -5,11 +5,9 @@
 
 ## 💡 About Me
 
-A Cybersecurity Professional with a deep commitment to both **technical excellence** and **community empowerment**. With a strong foundation in **cybersecurity**, **cloud computing**, and **digital forensics**, I aim to bridge the gap between technology and real-world solutions. As a **philanthropist**, I am dedicated to giving back through mentoring, teaching, and raising awareness about cybersecurity. My goal is to combine my love for technology and my desire to help others, fostering a culture of security, resilience, and growth. I am always seeking new opportunities to collaborate on open-source projects and develop innovative solutions that make a tangible impact.
-
+A **Cybersecurity Professional** with a deep commitment to both **technical excellence** and **community empowerment**. With a strong foundation in **Cybersecurity**, **Cloud Computing**, and **Digital Forensics**, I aim to bridge the gap between technology and real-world solutions. As a **Philanthropist**, I am dedicated to giving back through mentoring, teaching, and raising awareness about cybersecurity. My goal is to combine my love for technology and my desire to help others, fostering a culture of security, resilience, and growth.
 
 ---
-
 
 ## 👨‍💻 Cybersecurity Projects:
 
@@ -24,13 +22,15 @@ A Cybersecurity Professional with a deep commitment to both **technical excellen
 
 ## 🎓 Certifications:
 
-- [🏅 Fortinet Certified Fundamentals (FCF) in Cybersecurity](https://www.google.com)  
-- [🔒 (ISC)² Certified in Cybersecurity (CC)](https://isc2.org)  
-- [🎓 Google IT Support Professional Certificate](https://coursera.org)  
-- [🔐 Google Cybersecurity Professional Certificate](https://coursera.org)  
-- [☁️ Microsoft Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/engbnyarambi)  
-
-
+- **ISACA**: CISA
+- **ISC2**: Certified in Cybersecurity (CC), Systems Security Certified Practitioner (SSCP)
+- **CompTIA**: Security+. Network+, A+
+- **Microsoft Azure**: AZ900, AI900, SC900
+- **Amazon Web Services**: AWS Certified Cloud Practitioner
+- **Google Cloud Platform**: Certified Cloud Digital Leader
+- **Fortinet**: Fortinet Certified Associate (FCA) in Cybersecurity, Fortinet Certified Fundamentals (FCF) in Cybersecurity
+- **CISCO**: Junior Cybersecurity Analyst Path, Network Technician Career Path
+- **Coursera**: Google IT Support, Google Cybersecurity, IBM Cybersecurity Analyst, IBM Technical Support, and Microsoft Cybersecurity Analyst Specializations
 ---
 
 ## 💼 Skillset
@@ -48,7 +48,7 @@ A Cybersecurity Professional with a deep commitment to both **technical excellen
 
 - **🔗 LinkedIn**: [Brian T. Nyarambi](https://linkedin.com/in/engbnyarambi)  
 - **🐦 Twitter**: [@engbnyarambi](https://twitter.com/engbnyarambi)  
-- **📺 YouTube**: [Brian T. Nyarambi](https://www.youtube.com/c/engbnyarambi)  
+- **📺 YouTube**: [Brian T. Nyarambi](https://www.youtube.com/engbnyarambi)  
 - **📸 Instagram**: [@engbnyarambi](https://www.instagram.com/engbnyarambi)  
 
 Feel free to reach out if you want to collaborate on open-source projects, discuss cybersecurity trends, or just connect!
