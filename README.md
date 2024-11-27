@@ -16,12 +16,12 @@ Skills: Vulnerability Management, Incident Response, VAPTs, Python
 ---
 ## 👨‍💻 Cybersecurity Projects:
 
-- **🔒 [Basic Active Directory Home Lab](https://github.com/engbnyarambi/Active-Directory-Home-Lab)**:  
+- **[Basic Active Directory Home Lab](https://github.com/engbnyarambi/Active-Directory-Home-Lab)**:  
   A hands-on project simulating Security Operations Centre (SOC) activities and Active Directory management.
-
-- **⚙️ [Penetration Testing Lab (Web & API)](https://github.com/engbnyarambi/Penetration-Testing-Lab)**:  
-  A custom-built lab to practice web and API security testing.
-
+- **[Nessus Vulnerability Management](https://github.com/engbnyarambi/Nessus-Vulnerability-Management)**:  
+  A hands-on project simulating Vulnerability Management in a virtualized environment using Tenable Nessus Essentials.
+- **[Qualys Vulnerability Management](https://github.com/engbnyarambi/Qualys-Vulnerability-Management)**:  
+    A hands-on project simulating Vulnerability Management in a virtualized environment using Qualys Community Edition.
 
 ---
 
