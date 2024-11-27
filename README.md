@@ -11,7 +11,6 @@ Skills: Vulnerability Management, Incident Response, VAPTs, Python
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engbnyarambi)](https://github.com/engbnyarambi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engbnyarambi&layout=compact)
 
 
 ---
@@ -28,20 +27,18 @@ Skills: Vulnerability Management, Incident Response, VAPTs, Python
 
 ## 🎓 Certifications:
 
-- **ISACA**: CISA
 - **ISC2**: Certified in Cybersecurity (CC), Systems Security Certified Practitioner (SSCP)
 - **CompTIA**: Security+. Network+, A+
 - **Microsoft Azure**: AZ900, AI900, SC900
-- **Amazon Web Services**: AWS Certified Cloud Practitioner
 - **Google Cloud Platform**: Certified Cloud Digital Leader
-- **Fortinet**: Fortinet Certified Associate (FCA) in Cybersecurity, Fortinet Certified Fundamentals (FCF) in Cybersecurity
+- **Fortinet**: Fortinet Certified Associate (FCA) in Cybersecurity
 - **CISCO**: Junior Cybersecurity Analyst Path, Network Technician Career Path
-- **Coursera**: Google IT Support, Google Cybersecurity, IBM Cybersecurity Analyst, IBM Technical Support, and Microsoft Cybersecurity Analyst Specializations
+- **Coursera**: IT Support, and Cybersecurity Analyst Specializations from Google, IBM and Microsoft
 ---
 
 ## 💼 Skillset
 
-- **🛡️ Cybersecurity**: Penetration Testing, Vulnerability Assessment, Incident Response  
+- **🛡️ Cybersecurity**: Penetration Testing, Vulnerability Management, Incident Response  
 - **☁️ Cloud Services**: AWS, Azure, GCP  
 - **💻 Operating Systems**: Windows, Linux, VMware  
 - **🔧 Security Tools**: Nessus, Qualys, Burp Suite, Wireshark, Nikto 
