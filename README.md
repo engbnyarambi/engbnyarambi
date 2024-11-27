@@ -3,12 +3,18 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
-A **Cybersecurity Professional** with a deep commitment to both **technical excellence** and **community empowerment**. With a strong foundation in **Cybersecurity**, **Cloud Computing**, and **Digital Forensics**, I aim to bridge the gap between technology and real-world solutions. As a **Philanthropist**, I am dedicated to giving back through mentoring, teaching, and raising awareness about cybersecurity. My goal is to combine my love for technology and my desire to help others, fostering a culture of security, resilience, and growth.
+I specialize in **Ethical Hacking** and **Cloud Technologies**, and I am dedicated to bridging the gap between technology and real-worlf problems. Passionate about giving back to the community through mentoring, teaching, and promoting security awareness.
 
+Skills: Vulnerability Management, Incident Response, VAPTs, Python
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engbnyarambi)](https://github.com/engbnyarambi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engbnyarambi&layout=compact)
+
+
+---
 ## 👨‍💻 Cybersecurity Projects:
 
 - **🔒 [Basic Active Directory Home Lab](https://github.com/engbnyarambi/Active-Directory-Home-Lab)**:  
