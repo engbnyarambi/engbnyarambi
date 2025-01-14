@@ -7,7 +7,7 @@
 
 I specialize in **Ethical Hacking** and **Cloud Technologies**, and I am dedicated to bridging the gap between technology and real-worlf problems. Passionate about giving back to the community through mentoring, teaching, and promoting security awareness.
 
-Skills: Vulnerability Management, Incident Response, VAPTs, Python
+Skills: Ethical Hacking, Network Security, and Cloud Computing
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engbnyarambi)](https://github.com/engbnyarambi/github-readme-stats)
