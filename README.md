@@ -17,7 +17,7 @@ Skills: Ethical Hacking, Network Security, and Cloud Computing
 ## 👨‍💻 Cybersecurity Projects:
 
 
-- **[Advanced Active Directory Lab with Splunk and Atomic Red Team](https://github.com/engbnyarambi/Advanced-Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team)**: 
+- **[Advanced Active Directory Lab with Splunk and Atomic Red Team](https://github.com/engbnyarambi/Advanced-Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team)**:
   A hands-on project simulating advanced Active Directory Lab environment integrated with Splunk for monitoring and Atomic Red Team for simulating adversary behaviors.
 - **[Nessus Vulnerability Management](https://github.com/engbnyarambi/Nessus-Vulnerability-Management)**:  
   A hands-on project simulating Vulnerability Management in a virtualized environment using Tenable Nessus Essentials.
