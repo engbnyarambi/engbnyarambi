@@ -5,7 +5,7 @@
 
 ## About Me
 
-I specialize in **Ethical Hacking** and **Cloud Technologies**, and I am dedicated to bridging the gap between technology and real-worlf problems. Passionate about giving back to the community through mentoring, teaching, and promoting security awareness.
+I specialize in **Ethical Hacking**, **Networking**, and **Cloud Computing**, and I am dedicated to bridging the gap between technology and real-worlf problems. Passionate about giving back to the community through mentoring, teaching, and promoting security awareness.
 
 Skills: Ethical Hacking, Network Security, and Cloud Computing
 ---
@@ -30,7 +30,7 @@ Skills: Ethical Hacking, Network Security, and Cloud Computing
 - **ISC2**: Certified in Cybersecurity (CC), Systems Security Certified Practitioner (SSCP)
 - **CompTIA**: Security+. Network+, A+
 - **Microsoft Azure**: AZ900, AI900, SC900
-- **Google Cloud Platform**: Certified Cloud Digital Leader
+- **Google Cloud Platform**: Google Certified Cloud Digital Leader
 - **Fortinet**: Fortinet Certified Associate (FCA) in Cybersecurity
 - **CISCO**: Junior Cybersecurity Analyst Path, Network Technician Career Path
 - **Coursera**: IT Support, and Cybersecurity Analyst Specializations from Google, IBM and Microsoft
@@ -40,7 +40,7 @@ Skills: Ethical Hacking, Network Security, and Cloud Computing
 
 - **🛡️ Cybersecurity**: Penetration Testing, Vulnerability Management, Incident Response  
 - **☁️ Cloud Services**: AWS, Azure, GCP  
-- **💻 Operating Systems**: Windows, Linux, VMware  
+- **💻 Operating Systems**: Windows, Linux, macOS, VMWare, Virtual Box 
 - **🔧 Security Tools**: Nessus, Qualys, Burp Suite, Wireshark, Nikto 
 - **📝 Compliance**: ISO 27001, NIST CSF, PCI DSS, HIPAA, GDPR
 
@@ -58,8 +58,4 @@ Feel free to reach out if you want to collaborate on open-source projects, discu
 
 
 ---
-
-## ⚙️ About this Repo
-
-**engbnyarambi/engbnyarambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
