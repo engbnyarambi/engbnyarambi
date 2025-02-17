@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Security Expert | Cloud Ninja | Network Specialist </div>
+### <div align="center">Security Expert | Cloud Ninja | AI Enthusiast </div>
 
 ---
 
