@@ -35,22 +35,22 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 ## 🛠️ Technical Skillset
 
-**🛡 Cybersecurity:**  Penetration Testing • Threat Simulation • Vulnerability Management • Incident Response  
+**🛡 Cybersecurity:**  Penetration Testing • Threat Intelligence • Vulnerability Management • Incident Response & Disaster Recovery 
 
-**☁️ Cloud Platforms:**  Microsoft Azure • AWS • Google Cloud Platform  
+**☁️ Cloud Platforms:**  Microsoft Azure • Amazon AWS 
 
 **🔧 Security Tools:**  Tenable Nessus • Qualys • Burp Suite • Wireshark • Splunk • Nikto  
 
-**🗂️ Frameworks & Compliance:**  ISO 27001 • NIST CSF • PCI DSS • HIPAA • GDPR  
+**🗂️ Frameworks & Compliance:**  ISO 27001 • NIST CSF • PCI DSS • HIPAA • GDPR • OWASP Top 10
 
-**💻 Environments:**  Windows • Linux • macOS • VMware • VirtualBox  
+**💻 Operating Systems:**  Windows • Linux • macOS • VMWare • VirtualBox  
 
 ---
 
 ## 📜 Certifications
  
 - ISC2: CC, SSCP, CISSP (in progress) 
-- CompTIA: Security+, Network+, A+   
+- CompTIA: CompTIA Security+, Network+ & A+   
 - Microsoft: AZ-900, AI-900, SC-900  
 - Fortinet: Fortinet Certified Associate Cybersecurity
 
@@ -76,10 +76,6 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 ## 🤝 Let's Connect
 
 Feel free to connect or collaborate—whether it’s open-source projects, cyber threat research, or just a tech chat.
-
-📫 **Email**: brian@cyberconnect.tech (example)  
-📍 **Location**: Harare, Zimbabwe (Available for remote & international roles)  
-🌱 **Currently Exploring**: AI for Threat Detection • Cloud-Native Security • Zero Trust  
 
 ---
 
