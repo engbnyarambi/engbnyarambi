@@ -1,5 +1,6 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity Engineer | Ethical Hacker | Cloud & AI Security | Founder of ZeusFort </div>
+### <div align="center">Cybersecurity Engineer | Ethical Hacker | Cloud & AI Security </div>
+### <div align="center"> Founder of ZeusFort </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
