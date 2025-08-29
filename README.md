@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity Engineer | Cloud & AI Enthusiast | Lifelong Scholar</div>
+### <div align="center">Cybersecurity Engineer | Ethical Hacker | Cloud & AI Security | Founder of ZeusFort </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
@@ -22,9 +22,8 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 | Project | Description |
 |--------|-------------|
-| 🚨 [**Active Directory Lab w/ Splunk & Atomic Red Team**](https://github.com/engbnyarambi/Advanced-Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team) | Simulates real-world adversary behaviors in a custom-built AD lab, monitored using Splunk. |
-| 🛡️ [**Nessus Vulnerability Management**](https://github.com/engbnyarambi/Nessus-Vulnerability-Management) | Demonstrates a full VM lifecycle using Tenable Nessus in a virtual lab setup. |
-| 🔍 [**Qualys Vulnerability Management**](https://github.com/engbnyarambi/Qualys-Vulnerability-Management) | Conducts vulnerability assessments and compliance checks using Qualys Community Edition. |
+| 🚨 [**Advanced AD Lab with Splunk & Atomic Red Team**](https://github.com/engbnyarambi/Advanced-Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team) | Simulates real-world adversary behaviors in a custom-built AD lab, monitored using Splunk. |
+| 🛡️ [**Vulnerability Management with Qualys & Nessus**](https://github.com/engbnyarambi/Vulnerability-Management-with-Qualys-and-Nessus) | Demonstrates a full VM lifecycle using Qualys and Nessus in a virtual lab setup. |
 | 🔐 **Microsoft Entra IAM** | Enforced identity governance and Zero Trust architecture using Microsoft Entra. |
 | 🛡️ **Microsoft Defender XDR** | Developed advanced threat detection and response playbooks with Microsoft Defender XDR. |
 | 🧭 **Microsoft Sentinel SOC** | Built a cloud-native SOC integrating analytics, threat intelligence, and automation. |
