@@ -1,6 +1,6 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity Engineer | Ethical Hacker | Cloud & AI Security </div>
-### <div align="center"> Founder of ZeusFort </div>
+### <div align="center"> Ethical Hacker | Cloud Security </div>
+### <div align="center"> Founder of ZeuX </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 
 I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**, **Cloud Security**, and **Network Security**. I specialize in securing complex systems by aligning security practices with modern cloud technologies and threat landscapes. I thrive on solving real-world security problems, whether through building attack simulations, deploying secure cloud architectures, or mentoring the next generation of tech professionals. I'm also passionate about leveraging AI in cybersecurity to detect and respond to threats faster and smarter.
 
@@ -19,21 +19,21 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
+| 🚨 [**Azure Honeynet with Microsoft Sentinel**](https://github.com/engbnyarambi/Azure-Honeynet-with-Microsoft-Sentinel) | Simulates real-world adversary behaviors in an Azure Cloud environment, and uses Microsoft Defender for Cloud to capture incidents/alerts and Microsoft Sentinel to aggregate, correlate and automate actions. |
 | 🚨 [**Advanced AD Lab with Splunk & Atomic Red Team**](https://github.com/engbnyarambi/Advanced-Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team) | Simulates real-world adversary behaviors in a custom-built AD lab, monitored using Splunk. |
 | 🛡️ [**Vulnerability Management with Qualys & Nessus**](https://github.com/engbnyarambi/Vulnerability-Management-with-Qualys-and-Nessus) | Demonstrates a full VM lifecycle using Qualys and Nessus in a virtual lab setup. |
 | 🔐 **Microsoft Entra IAM** | Enforced identity governance and Zero Trust architecture using Microsoft Entra. |
 | 🛡️ **Microsoft Defender XDR** | Developed advanced threat detection and response playbooks with Microsoft Defender XDR. |
 | 🧭 **Microsoft Sentinel SOC** | Built a cloud-native SOC integrating analytics, threat intelligence, and automation. |
-| 🧬 **Biometric Exam Authentication System** | Designed a fingerprint-based Arduino system to prevent exam impersonation at universities. |
 | 📋 **ISO 27001 Implementation Project** | Contributed to ISO 27001 compliance through gap analysis, risk treatment planning, and ISMS documentation. |
 
 ---
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 **🛡 Cybersecurity:**  Penetration Testing • Threat Intelligence • Vulnerability Management • Incident Response & Disaster Recovery 
 
@@ -47,7 +47,7 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 ---
 
-## 📜 Certifications
+## Certifications
  
 - ISC2: CC, SSCP, CISSP (in progress) 
 - CompTIA: CompTIA Security+, Network+ & A+   
@@ -56,7 +56,7 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 ---
 
-## 📈 GitHub Insights
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=engbnyarambi&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" height="160" />
@@ -65,7 +65,7 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 ---
 
-## 🔥 GitHub Streak Stats
+## GitHub Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=engbnyarambi&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -73,7 +73,7 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Feel free to connect or collaborate—whether it’s open-source projects, cyber threat research, or just a tech chat.
 
