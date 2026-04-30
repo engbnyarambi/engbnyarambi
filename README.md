@@ -1,15 +1,10 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center"> Ethical Hacker | Cloud Security </div>
-### <div align="center"> Founder of ZeuX </div>
+### <div align="center"> Offensive Security | Cloud & AI Security | Security Researcher </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
   <a href="https://twitter.com/engbnyarambi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge"></a>
-  <a href="https://www.youtube.com/engbnyarambi"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge"></a>
-  <a href="https://www.instagram.com/engbnyarambi"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge"></a>
-</p>
-
----
+  
 
 ## About Me
 
@@ -37,22 +32,25 @@ I'm a **Cybersecurity Engineer** with hands-on experience in **Ethical Hacking**
 
 **🛡 Cybersecurity:**  Penetration Testing • Threat Intelligence • Vulnerability Management • Incident Response & Disaster Recovery 
 
-**☁️ Cloud Platforms:**  Microsoft Azure • Amazon AWS 
+**☁️ Cloud Tech:**  Microsoft Azure • Amazon AWS 
 
-**🔧 Security Tools:**  Tenable Nessus • Qualys • Burp Suite • Wireshark • Splunk • Nikto  
+**🔧 Security Tools:**  Nessus • Qualys • BurpSuite • Wireshark • Splunk • Nikto  
 
-**🗂️ Frameworks & Compliance:**  ISO 27001 • NIST CSF • PCI DSS • HIPAA • GDPR • OWASP Top 10
+**🗂️ Governance & Compliance:**  ISO 27001 • NIST CSF • PCI DSS • HIPAA • GDPR • OWASP
 
-**💻 Operating Systems:**  Windows • Linux • macOS • VMWare • VirtualBox  
+**💻 OS:**  Windows • Linux • macOS • VMWare • VirtualBox  
 
 ---
 
 ## Certifications
  
-- ISC2: CC, SSCP, CISSP (in progress) 
-- CompTIA: CompTIA Security+, Network+ & A+   
+- ISC2 SSCP
+- CompTIA Security+
 - Microsoft: AZ-900, AI-900, SC-900  
-- Fortinet: Fortinet Certified Associate Cybersecurity
+- Fortinet Certified Associate Cybersecurity
+- ITIL v4 Foundation
+- Huawei HCIA Datacom
+- Certified Entry-Level Python Programmer (PCEP)
 
 ---
 
