@@ -55,7 +55,7 @@ I'm a **Cybersecurity Engineer** specializing in **Ethical Hacking**, **Cloud Se
   <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="Certified Ethical Hacker" src="https://img.shields.io/badge/EC--Council-CEH-D2232A?style=for-the-badge">
   <img alt="ISC2 CISSP" src="https://img.shields.io/badge/ISC2-CISSP-000000?style=for-the-badge&logo=isc2&logoColor=white">
-  <img alt="ISC2 SSCP" src="https://img.shields.io/badge/ISC2-SSCP-000000?style=for-the-badge&logo=isc2&logoColor=white">
+  <a href="https://www.credly.com/earner/earned/badge/d5bb1adf-4932-4e08-9656-4941f7af2b4d"><img alt="ISC2 SSCP" src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="90"></a>
   <img alt="ISC2 CC" src="https://img.shields.io/badge/ISC2-CC-000000?style=for-the-badge&logo=isc2&logoColor=white">
   <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white">
   <img alt="Microsoft AZ-900" src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
