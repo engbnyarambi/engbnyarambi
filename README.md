@@ -49,22 +49,22 @@ I'm a **Cybersecurity Engineer** specializing in **Ethical Hacking**, **Cloud Se
 ## Certifications
 
 <p align="left">
-  <img alt="PECB ISO 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2027001%20Lead%20Implementer-2E8B57?style=for-the-badge">
-  <img alt="ISACA COBIT 2019 Foundation" src="https://img.shields.io/badge/ISACA-COBIT%202019%20Foundation-0057B8?style=for-the-badge">
-  <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img alt="Certified Ethical Hacker" src="https://img.shields.io/badge/EC--Council-CEH-D2232A?style=for-the-badge">
-  <img alt="ISC2 CISSP" src="https://img.shields.io/badge/ISC2-CISSP-000000?style=for-the-badge&logo=isc2&logoColor=white">
-  <a href="https://www.credly.com/earner/earned/badge/d5bb1adf-4932-4e08-9656-4941f7af2b4d"><img alt="ISC2 SSCP" src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="90"></a>
-  <img alt="ISC2 CC" src="https://img.shields.io/badge/ISC2-CC-000000?style=for-the-badge&logo=isc2&logoColor=white">
-  <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white">
-  <img alt="Microsoft AZ-900" src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img alt="Microsoft AI-900" src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img alt="Microsoft SC-900" src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img alt="Fortinet NSE1" src="https://img.shields.io/badge/Fortinet-NSE1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-  <img alt="Fortinet NSE2" src="https://img.shields.io/badge/Fortinet-NSE2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-  <img alt="Fortinet NSE3" src="https://img.shields.io/badge/Fortinet-NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-  <img alt="ITIL v4 Foundation" src="https://img.shields.io/badge/ITIL-v4%20Foundation-00A9E0?style=for-the-badge">
+  <img alt="PECB ISO 27001 Lead Implementer" title="PECB ISO 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2027001%20Lead%20Implementer-2E8B57?style=for-the-badge">&nbsp;&nbsp;
+  <img alt="ISACA COBIT 2019 Foundation" title="ISACA COBIT 2019 Foundation" src="https://img.shields.io/badge/ISACA-COBIT%202019%20Foundation-0057B8?style=for-the-badge">&nbsp;&nbsp;
+  <img alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
+  <img alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
+  <img alt="Certified Ethical Hacker" title="Certified Ethical Hacker (CEH)" src="https://img.shields.io/badge/EC--Council-CEH-D2232A?style=for-the-badge">&nbsp;&nbsp;
+  <img alt="ISC2 CISSP" title="ISC2 CISSP" src="https://img.shields.io/badge/ISC2-CISSP-000000?style=for-the-badge&logo=isc2&logoColor=white">&nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/d5bb1adf-4932-4e08-9656-4941f7af2b4d"><img alt="ISC2 SSCP" title="ISC2 SSCP" src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="90"></a>&nbsp;&nbsp;
+  <img alt="ISC2 CC" title="ISC2 Certified in Cybersecurity (CC)" src="https://img.shields.io/badge/ISC2-CC-000000?style=for-the-badge&logo=isc2&logoColor=white">&nbsp;&nbsp;
+  <img alt="CompTIA Security+" title="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white">&nbsp;&nbsp;
+  <img alt="Microsoft AZ-900" title="Microsoft Azure Fundamentals (AZ-900)" src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp;&nbsp;
+  <img alt="Microsoft AI-900" title="Microsoft Azure AI Fundamentals (AI-900)" src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">&nbsp;&nbsp;
+  <img alt="Microsoft SC-900" title="Microsoft Security, Compliance & Identity Fundamentals (SC-900)" src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">&nbsp;&nbsp;
+  <img alt="Fortinet NSE1" title="Fortinet NSE 1: Network Security Awareness" src="https://img.shields.io/badge/Fortinet-NSE1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">&nbsp;&nbsp;
+  <img alt="Fortinet NSE2" title="Fortinet NSE 2: Network Security Associate" src="https://img.shields.io/badge/Fortinet-NSE2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">&nbsp;&nbsp;
+  <img alt="Fortinet NSE3" title="Fortinet NSE 3: Network Security Professional" src="https://img.shields.io/badge/Fortinet-NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">&nbsp;&nbsp;
+  <img alt="ITIL v4 Foundation" title="ITIL v4 Foundation" src="https://img.shields.io/badge/ITIL-v4%20Foundation-00A9E0?style=for-the-badge">
 </p>
 
 ---
