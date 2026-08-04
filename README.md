@@ -48,14 +48,17 @@ I'm a **Cybersecurity Engineer** specializing in **Ethical Hacking**, **Cloud Se
 
 ## Certifications
 
-- ISC2 SSCP
+- PECB ISO 27001 Lead Implementer
+- ISACA COBIT 2019 Foundation
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- Certified Ethical Hacker (CEH)
+- ISC2 CISSP, SSCP, CC
 - CompTIA Security+
 - Microsoft AZ-900, AI-900, SC-900
-- Fortinet Certified Associate Cybersecurity
+- Fortinet Certified NSE1, NSE2, NSE3
 - ITIL v4 Foundation
-- Huawei HCIA Datacom
-- Certified Entry-Level Python Programmer (PCEP)
-- AWS Certified AI Practitioner *(in progress)*
+
 
 ---
 
