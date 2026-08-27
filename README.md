@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Information Security | IT Risk & Governance | Data Protection | Cloud & AI Security</div>
+### <div align="center">Information Security | IT Risk & Governance | Cloud & AI/ML Security</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
