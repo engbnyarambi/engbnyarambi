@@ -8,64 +8,66 @@
 
 ## About Me
 
-I'm a **Cybersecurity Engineer** specializing in **Ethical Hacking**, **Cloud Security**, and **Network Security**, with a growing focus on **AI Security**. I secure complex systems by aligning modern cloud technologies with today's evolving threat landscape — building attack simulations, deploying secure cloud architectures, and mentoring the next generation of tech professionals along the way. As AI becomes core to how organizations operate, I'm focused on helping them adopt it safely: leveraging AI to detect and respond to threats faster, while securing AI systems themselves against emerging risks.
+I'm a **Cybersecurity Engineer** specializing in **IT Risk & Governance**, **Cloud Security**, and **Vulnerability Management**, with a growing focus on **AI Security**. Currently operating in the enterprise financial sector, I secure complex systems by aligning modern cloud technologies with today's evolving threat landscape. My work involves managing vulnerability lifecycles, enforcing corporate security policies via Microsoft 365, and actively contributing to cloud-native threat detection capabilities.
+
+Beyond enterprise defense, I am deeply committed to community leadership and education. I serve as a chartering founding member of the **ISC2 Zimbabwe Chapter**, an **APISec University Ambassador**, and a Volunteer Scholarship Reviewer for the Center for Cyber Safety and Education. 
 
 > 💬 _"The best security is invisible — because it's intuitive."_
 
-**🎓 Currently pursuing:** MSc in Artificial Intelligence Engineering (MSAIE), Quantic School of Business and Technology — building deeper technical expertise in AI security.
+**🎓 Currently pursuing:** MSc in Artificial Intelligence Engineering (MSAIE), Quantic School of Business and Technology — building deeper technical expertise to secure AI systems against emerging risks.
 
 ---
 
-## Featured Projects
+## Featured Projects & Enterprise Contributions
 
-| Project | Description |
+| Project / Initiative | Description |
 |--------|-------------|
 | 🚨 [**Azure Honeynet with Microsoft Sentinel**](https://github.com/engbnyarambi/Azure-Honeynet-with-Microsoft-Sentinel) | Simulated real-world adversary behavior in an Azure cloud environment, using Microsoft Defender for Cloud to capture incidents and alerts, and Microsoft Sentinel to aggregate, correlate, and automate response actions. |
-| 🚨 [**Advanced AD Lab with Splunk & Atomic Red Team**](https://github.com/engbnyarambi/Advanced-Active-Directory-Lab-with-Splunk-and-Atomic-Red-Team) | Built a custom Active Directory lab to simulate real-world adversary behavior, using Atomic Red Team for attack emulation and Splunk for detection and monitoring. |
 | 🛡️ [**Vulnerability Management with Qualys & Nessus**](https://github.com/engbnyarambi/Vulnerability-Management-with-Qualys-and-Nessus) | Demonstrated a full vulnerability management lifecycle — scanning, prioritization, and remediation — using Qualys and Nessus in a virtual lab environment. |
-| 🔐 **Microsoft Entra IAM** | Enforced identity governance and Zero Trust architecture using Microsoft Entra. |
-| 🛡️ **Microsoft Defender XDR** | Developed advanced threat detection and response playbooks using Microsoft Defender XDR. |
-| 🧭 **Microsoft Sentinel SOC** | Built a cloud-native SOC integrating analytics, threat intelligence, and automation. |
-| 📋 **ISO 27001 Implementation** | Contributed to ISO 27001 compliance through gap analysis, risk treatment planning, and ISMS documentation. |
+| 🔐 **Enterprise M365 Governance & ERM** | Seamlessly integrated SharePoint ERM within the existing M365 Suite. Leveraged Microsoft Intune and Purview to govern corporate policies, data classification, and device compliance, backed by rigorous control testing and status checklists. |
+| 📋 **ISO/IEC 27001 Implementation** | Contributed to ISMS compliance, risk treatment planning, and security awareness training, actively translating complex frameworks into actionable corporate guidance. |
+| 🧭 **Microsoft Sentinel SOC Deployment** | Collaborated as a core team contributor in the implementation and configuration of Microsoft Sentinel to enhance enterprise threat detection and response capabilities. |
 
 ---
 
 ## Technical Skillset
 
-**🛡️ Cybersecurity:** Penetration Testing • Threat Intelligence • Vulnerability Management • Incident Response & Disaster Recovery
+**🛡️ Cybersecurity:** Vulnerability Management • IT Risk & Governance • Threat Detection & Response • Ethical Hacking (Burp Suite, Postman)
 
-**🤖 AI & Programming:** Python • AI/ML Fundamentals • AI Security (in progress)
+**🤖 AI & Programming:** Python • AI/ML Fundamentals • AI Security Architecture (in progress)
 
-**☁️ Cloud Platforms:** Microsoft Azure • Amazon AWS
+**☁️ Cloud & Enterprise:** Microsoft 365 Suite • Microsoft Entra ID • Microsoft Intune • Microsoft Purview • Microsoft Sentinel • Amazon AWS
 
-**🔧 Security Tools:** Nessus • Qualys • Burp Suite • Wireshark • Splunk • Nikto
+**🔧 Security Tools:** Tenable Nessus • Qualys • Burp Suite • Postman • Wireshark • Splunk
 
-**🗂️ Governance & Compliance:** ISO 27001 • NIST CSF • PCI DSS • HIPAA • GDPR • OWASP
-
-**💻 Platforms:** Windows • Linux • macOS • VMware • VirtualBox
+**🗂️ Governance & Compliance:** ISO/IEC 27001 (Certified Lead Implementer) • NIST CSF • ITIL v4
 
 ---
 
-## Certifications
+## Certifications & Credentials
 
+**Achieved:**
 <p align="left">
   <img alt="PECB ISO 27001 Lead Implementer" title="PECB ISO 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2027001%20Lead%20Implementer-2E8B57?style=for-the-badge">&nbsp;&nbsp;
-  <img alt="ISACA COBIT 2019 Foundation" title="ISACA COBIT 2019 Foundation" src="https://img.shields.io/badge/ISACA-COBIT%202019%20Foundation-0057B8?style=for-the-badge">&nbsp;&nbsp;
-  <img alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
-  <img alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
-  <img alt="Certified Ethical Hacker" title="Certified Ethical Hacker (CEH)" src="https://img.shields.io/badge/EC--Council-CEH-D2232A?style=for-the-badge">&nbsp;&nbsp;
-  <img alt="ISC2 CISSP" title="ISC2 CISSP" src="https://img.shields.io/badge/ISC2-CISSP-000000?style=for-the-badge&logo=isc2&logoColor=white">&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/d5bb1adf-4932-4e08-9656-4941f7af2b4d"><img alt="ISC2 SSCP" title="ISC2 SSCP" src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="90"></a>&nbsp;&nbsp;
   <img alt="ISC2 CC" title="ISC2 Certified in Cybersecurity (CC)" src="https://img.shields.io/badge/ISC2-CC-000000?style=for-the-badge&logo=isc2&logoColor=white">&nbsp;&nbsp;
   <img alt="CompTIA Security+" title="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white">&nbsp;&nbsp;
-  <img alt="Microsoft AZ-900" title="Microsoft Azure Fundamentals (AZ-900)" src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp;&nbsp;
-  <img alt="Microsoft AI-900" title="Microsoft Azure AI Fundamentals (AI-900)" src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">&nbsp;&nbsp;
-  <img alt="Microsoft SC-900" title="Microsoft Security, Compliance & Identity Fundamentals (SC-900)" src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">&nbsp;&nbsp;
-  <img alt="Fortinet NSE1" title="Fortinet NSE 1: Network Security Awareness" src="https://img.shields.io/badge/Fortinet-NSE1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">&nbsp;&nbsp;
-  <img alt="Fortinet NSE2" title="Fortinet NSE 2: Network Security Associate" src="https://img.shields.io/badge/Fortinet-NSE2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">&nbsp;&nbsp;
-  <img alt="Fortinet NSE3" title="Fortinet NSE 3: Network Security Professional" src="https://img.shields.io/badge/Fortinet-NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">&nbsp;&nbsp;
   <img alt="ITIL v4 Foundation" title="ITIL v4 Foundation" src="https://img.shields.io/badge/ITIL-v4%20Foundation-00A9E0?style=for-the-badge">
 </p>
+
+**In Progress / Planned Roadmap:**
+<p align="left">
+  <img alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
+  <img alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+---
+
+## Community Leadership
+
+* **ISC2 Zimbabwe Chapter:** Chartering Founding Member (Mar 2025 – Present)
+* **APISec University:** Official Ambassador (Aug 2025 – Present)
+* **Center for Cyber Safety and Education:** Volunteer Scholarship Reviewer (Aug 2025 – Present)
 
 ---
 
@@ -84,8 +86,8 @@ I'm a **Cybersecurity Engineer** specializing in **Ethical Hacking**, **Cloud Se
 
 ## Let's Connect
 
-Always open to connecting and collaborating — open-source projects, threat research, or just a good tech conversation.
+Always open to connecting and collaborating — enterprise governance, threat research, AI security discussions, or community building. 
 
 ---
 
-> _"Cybersecurity is not a product, but a process." — Bruce Schneier_
+> _"Security isn't about doing everything. It's about doing the right things for your risks — and being able to prove it."_
