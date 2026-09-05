@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Information Security | IT Risk & Governance | Cloud & AI/ML Security</div>
+### <div align="center">Cloud & AI/ML Security | Information Security & Governance | Offensive Security</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
@@ -8,13 +8,13 @@
 
 ## About Me
 
-I'm a **Cybersecurity Engineer** specializing in **IT Risk & Governance**, **Cloud Security**, and **Vulnerability Management**, with a growing focus on **AI Security**. Currently operating in the enterprise financial sector, I secure complex systems by aligning modern cloud technologies with today's evolving threat landscape. My work involves managing vulnerability lifecycles, enforcing corporate security policies via Microsoft 365, and actively contributing to cloud-native threat detection capabilities.
+I'm a **Cybersecurity Engineer** specializing in **Cloud & AI/ML Security**, **Information Security & Governance**, and **Offensive Security**. Currently operating in the enterprise financial sector, I secure complex systems by aligning modern cloud technologies with today's evolving threat landscape. My work involves managing vulnerability lifecycles, enforcing corporate security policies via Microsoft 365, and actively contributing to cloud-native threat detection capabilities.
 
-Beyond enterprise defense, I am deeply committed to community leadership and education. I serve as a chartering founding member of the **ISC2 Zimbabwe Chapter**, an **APISec University Ambassador**, and a Volunteer Scholarship Reviewer for the Center for Cyber Safety and Education. 
+Beyond Academic and Professional works, I am also deeply committed to giving back to the community. I serve as a Chapter Member of the **ISACA Harare Chapter**, an **APISec University Ambassador**, and a **Security Researcher** at HackerOne.
 
 > 💬 _"The best security is invisible — because it's intuitive."_
 
-**🎓 Currently pursuing:** MSc in Artificial Intelligence Engineering (MSAIE), Quantic School of Business and Technology — building deeper technical expertise to secure AI systems against emerging risks.
+**🎓 Currently pursuing:** MSc in Artificial Intelligence Engineering (MSAIE) at Quantic School of Business and Technology (Class of 2028). This is an initiative to build deeper technical expertise to secure AI systems against emerging risks.
 
 ---
 
