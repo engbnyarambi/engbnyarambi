@@ -50,7 +50,7 @@ Beyond Academic and Professional works, I am also deeply committed to giving bac
 <p align="left">
   <!-- PECB ISO 27001 Lead Implementer -->
   <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
-    <img alt="PECB ISO 27001 Lead Implementer" title="PECB ISO 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2027001%20Lead%20Implementer-2E8B57?style=for-the-badge">
+    <img alt="PECB ISO 27001 Lead Implementer" title="PECB ISO 27001 Lead Implementer" src="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641/public_url">
   </a>&nbsp;&nbsp;
   
   <!-- CompTIA Security+ -->
