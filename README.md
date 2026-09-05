@@ -46,19 +46,32 @@ Beyond Academic and Professional works, I am also deeply committed to giving bac
 
 ## Certifications & Credentials
 
-**Achieved:**
-<p align="left">
-  <img alt="PECB ISO 27001 Lead Implementer" title="PECB ISO 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2027001%20Lead%20Implementer-2E8B57?style=for-the-badge">&nbsp;&nbsp;
-  <a href="https://www.credly.com/earner/earned/badge/d5bb1adf-4932-4e08-9656-4941f7af2b4d"><img alt="ISC2 SSCP" title="ISC2 SSCP" src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="90"></a>&nbsp;&nbsp;
-  <img alt="ISC2 CC" title="ISC2 Certified in Cybersecurity (CC)" src="https://img.shields.io/badge/ISC2-CC-000000?style=for-the-badge&logo=isc2&logoColor=white">&nbsp;&nbsp;
-  <img alt="CompTIA Security+" title="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white">&nbsp;&nbsp;
-  <img alt="ITIL v4 Foundation" title="ITIL v4 Foundation" src="https://img.shields.io/badge/ITIL-v4%20Foundation-00A9E0?style=for-the-badge">
-</p>
 
-**In Progress / Planned Roadmap:**
 <p align="left">
-  <img alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
-  <img alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <!-- PECB ISO 27001 Lead Implementer -->
+  <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
+    <img alt="PECB ISO 27001 Lead Implementer" title="PECB ISO 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2027001%20Lead%20Implementer-2E8B57?style=for-the-badge">
+  </a>&nbsp;&nbsp;
+  
+  <!-- CompTIA Security+ -->
+  <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
+    <img alt="CompTIA Security+" title="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white">
+  </a>&nbsp;&nbsp;
+
+  <!-- ISC2 Certified in Cybersecurity (CC) -->
+  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
+    <img alt="ISC2 CC" title="ISC2 Certified in Cybersecurity (CC)" src="https://img.shields.io/badge/ISC2-CC-000000?style=for-the-badge&logo=isc2&logoColor=white">
+  </a>&nbsp;&nbsp;
+
+  <!-- PCEP Certified Entry-Level Python Programmer -->
+  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
+    <img alt="PCEP Certified Entry-Level Python Programmer" title="PCEP Certified Entry-Level Python Programmer" src="https://img.shields.io/badge/PCEP-Python%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>&nbsp;&nbsp;
+
+  <!-- ITIL v4 Foundation -->
+  <a href="https://badges.peoplecert.org/Badge/en/2/E267AAF0-F508-4B44-85A6-97A937EF9D15?39">
+    <img alt="ITIL v4 Foundation" title="ITIL v4 Foundation" src="https://img.shields.io/badge/ITIL-v4%20Foundation-00A9E0?style=for-the-badge">
+  </a>
 </p>
 
 ---
