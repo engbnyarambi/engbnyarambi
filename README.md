@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
   <a href="https://twitter.com/engbnyarambi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge"></a>
+  <a href="https://www.credly.com/users/engbnyarambi/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ## About Me
@@ -46,11 +47,10 @@ Beyond Academic and Professional works, I am also deeply committed to giving bac
 
 ## Certifications & Credentials
 
-
 <p align="left">
   <!-- PECB ISO 27001 Lead Implementer -->
   <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
-    <img src="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641" alt="PECB ISO 27001 Lead Implementer" width="115">
+    <img src="PASTE_IMAGE_LINK_HERE" alt="PECB ISO 27001 Lead Implementer" width="115">
   </a>&nbsp;&nbsp;
   
   <!-- CompTIA Security+ -->
@@ -73,6 +73,8 @@ Beyond Academic and Professional works, I am also deeply committed to giving bac
     <img src="PASTE_IMAGE_LINK_HERE" alt="ITIL v4 Foundation" width="115">
   </a>
 </p>
+
+*🔗 [View my full verified credential portfolio on Credly](https://www.credly.com/users/YOUR-CREDLY-USERNAME/badges)*
 
 ---
 
