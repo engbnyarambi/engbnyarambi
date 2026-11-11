@@ -56,7 +56,7 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
     <img alt="PECB ISO/IEC 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2FIEC_27001_Lead_Implementer-8B0000?style=for-the-badge&logo=iso&logoColor=white">
   </a>
   <!-- ISC2 SSCP -->
-  <a href="https://www.credly.com/org/isc2/badge/systems-security-certified-practitioner-sscp">
+  <a href="(https://www.credly.com/badges/d5bb1adf-4932-4e08-9656-4941f7af2b4d)">
     <img alt="ISC2 SSCP" src="https://img.shields.io/badge/(ISC)%C2%B2-SSCP-008000?style=for-the-badge&logo=isc2&logoColor=white">
   </a>
   <!-- CompTIA Security+ -->
@@ -64,11 +64,11 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
     <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white">
   </a>
   <!-- AWS Certified AI Practitioner (AIF-C01) -->
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner">
+  <a href="https://www.credly.com/badges/0eb3d0d0-2167-434d-a980-a46e1609abcc">
     <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
   </a>
   <!-- ISACA COBIT 2019 -->
-  <a href="https://www.credly.com/org/isaca/badge/cobit-2019-foundation-certificate">
+  <a href="https://www.credly.com/badges/5909c693-54a4-4f8a-8c7f-0eb38b204ebc">
     <img alt="ISACA COBIT 2019" src="https://img.shields.io/badge/ISACA-COBIT_2019-003366?style=for-the-badge&logo=isaca&logoColor=white">
   </a>
   <!-- ISC2 Certified in Cybersecurity (CC) -->
