@@ -1,88 +1,135 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cloud & AI/ML Security | Information Security & Governance | Offensive Security</div>
+### <div align="center">Cybersecurity | AI/ML Security | GRC | Data Protection | Offensive Security</div>
+##### <div align="center">PECB Certified Trainer • MSc AI Engineering • ISO 27001 LI • ISO 42001 LI • ISO 27701 LI • SSCP • Sec+ • COBIT 2019 • AWS x3 • Microsoft x4</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://twitter.com/engbnyarambi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge"></a>
-  <a href="https://www.credly.com/users/engbnyarambi/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://twitter.com/engbnyarambi"><img alt="X (Twitter)" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.credly.com/users/engbnyarambi/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly_Portfolio-FF6B00?logo=credly&logoColor=white&style=for-the-badge"></a>
 </p>
+
+---
 
 ## About Me
 
-I'm a **Cybersecurity Engineer** specializing in **Cloud & AI/ML Security**, **Information Security & Governance**, and **Offensive Security**. Currently operating in the enterprise financial sector, I secure complex systems by aligning modern cloud technologies with today's evolving threat landscape. My work involves managing vulnerability lifecycles, enforcing corporate security policies via Microsoft 365, and actively contributing to cloud-native threat detection capabilities.
+I am a **Cybersecurity Engineer**, **Enterprise GRC Consultant**, and **PECB Certified Trainer** specializing in **AI/ML Security**, **GRC & Data Protection**, and **Offensive Security**. Operating in the enterprise financial sector, I secure critical infrastructure by bridging deep technical assurance across web, REST APIs, mobile applications, databases, and cloud workloads with board level governance and regulatory compliance.
 
-Beyond Academic and Professional works, I am also deeply committed to giving back to the community. I serve as a Chapter Member of the **ISACA Harare Chapter**, an **APISec University Ambassador**, and a **Security Researcher** at HackerOne.
+My daily execution spans end-to-end vulnerability assessment and penetration testing (VAPT), enterprise M365 security governance, cloud-native threat detection, and delivering accredited executive training across **ISO/IEC 27001 (ISMS)**, **ISO/IEC 27701 (PIMS)**, **ISO/IEC 42001 (AIMS)**, and **Data Protection** frameworks.
 
-> 💬 _"The best security is invisible — because it's intuitive."_
+> 💬 *"The best security is invisible — because it's intuitive."*
 
-**🎓 Currently pursuing:** MSc in Artificial Intelligence Engineering (MSAIE) at Quantic School of Business and Technology (Class of 2028). This is an initiative to build deeper technical expertise to secure AI systems against emerging risks.
+- 🎓 **Currently Pursuing:** **MSc in Artificial Intelligence Engineering (MSAIE)** at Quantic School of Business and Technology — building deeper technical rigor to architect, audit, and secure enterprise AI/ML systems against emerging threats.
+- 🏛️ **Regulatory & Framework Focus:** ISO/IEC 27001:2022 • ISO/IEC 42001:2023 • ISO/IEC 27701:2025 • COBIT 2019 • DORA • EU Cyber Resilience Act (CRA) • Cyber and Data Protection Act [Chapter 12:07].
 
 ---
 
 ## Featured Projects & Enterprise Contributions
 
 | Project / Initiative | Description |
-|--------|-------------|
-| 🚨 [**Azure Honeynet with Microsoft Sentinel**](https://github.com/engbnyarambi/Azure-Honeynet-with-Microsoft-Sentinel) | Simulated real-world adversary behavior in an Azure cloud environment, using Microsoft Defender for Cloud to capture incidents and alerts, and Microsoft Sentinel to aggregate, correlate, and automate response actions. |
-| 🛡️ [**Vulnerability Management with Qualys & Nessus**](https://github.com/engbnyarambi/Vulnerability-Management-with-Qualys-and-Nessus) | Demonstrated a full vulnerability management lifecycle — scanning, prioritization, and remediation — using Qualys and Nessus in a virtual lab environment. |
-| 🔐 **Enterprise M365 Governance & ERM** | Seamlessly integrated SharePoint ERM within the existing M365 Suite. Leveraged Microsoft Intune and Purview to govern corporate policies, data classification, and device compliance, backed by rigorous control testing and status checklists. |
-| 📋 **ISO/IEC 27001 Implementation** | Contributed to ISMS compliance, risk treatment planning, and security awareness training, actively translating complex frameworks into actionable corporate guidance. |
-| 🧭 **Microsoft Sentinel SOC Deployment** | Collaborated as a core team contributor in the implementation and configuration of Microsoft Sentinel to enhance enterprise threat detection and response capabilities. |
+| :--- | :--- |
+| 🚨 [**Azure Honeynet with Microsoft Sentinel**](https://github.com/engbnyarambi/Azure-Honeynet-with-Microsoft-Sentinel) | Simulated real-world adversary behavior in an Azure cloud environment, leveraging Microsoft Defender for Cloud to capture telemetry and Microsoft Sentinel to aggregate, correlate, and automate incident response. |
+| 🛡️ [**Vulnerability Management with Qualys & Nessus**](https://github.com/engbnyarambi/Vulnerability-Management-with-Qualys-and-Nessus) | Executed a complete vulnerability management lifecycle—asset discovery, authenticated scanning, risk-based prioritization, and remediation verification—using Qualys and Tenable Nessus. |
+| 🔌 **Enterprise API, Web & Database Security Assessments** | Conducted offensive security testing and hardening assessments across REST APIs (OWASP API Top 10 via Postman & Burp Suite), web/mobile applications, and production Microsoft SQL Server & PostgreSQL databases. |
+| 🔐 **Enterprise M365 Governance & ERM Integration** | Integrated SharePoint ERM seamlessly within the existing Microsoft 365 Suite, leveraging Microsoft Intune and Microsoft Purview to govern corporate policies, data classification, and compliance checklists. |
+| 📋 **ISO/IEC 27001 ISMS & AI Security Governance** | Contributed to enterprise ISMS implementation, Risk Treatment Plans (RTP), Statements of Applicability (SoA), and organizational AI security charter clauses, translating complex standards into operational controls. |
+| 🧭 **Microsoft Sentinel SOC Deployment** | Collaborated as a core team member in deploying and configuring Microsoft Sentinel workbooks and analytics rules to strengthen enterprise threat detection and triage. |
 
 ---
 
 ## Technical Skillset
 
-**🛡️ Cybersecurity:** Vulnerability Management • IT Risk & Governance • Threat Detection & Response • Ethical Hacking (Burp Suite, Postman)
-
-**🤖 AI & Programming:** Python • AI/ML Fundamentals • AI Security Architecture (in progress)
-
-**☁️ Cloud & Enterprise:** Microsoft 365 Suite • Microsoft Entra ID • Microsoft Intune • Microsoft Purview • Microsoft Sentinel • Amazon AWS
-
-**🔧 Security Tools:** Tenable Nessus • Qualys • Burp Suite • Postman • Wireshark • Splunk
-
-**🗂️ Governance & Compliance:** ISO/IEC 27001 (Certified Lead Implementer) • NIST CSF • ITIL v4
+- **🛡️ Offensive Security:** Web & API Penetration Testing (OWASP Top 10 / API Top 10) • Network & Infrastructure VAPT • Database Security Auditing (MSSQL, PostgreSQL) • Vulnerability Lifecycle Management
+- **🤖 AI/ML Security:** AI Governance & Risk Management (ISO/IEC 42001) • AWS AI/ML Security (SageMaker, Bedrock, Comprehend) • Adversarial ML Threat Modeling • Python
+- **☁️ Cloud & Enterprise Security:** Amazon Web Services (AWS) • Microsoft Azure • Microsoft 365 Suite • Microsoft Entra ID • Microsoft Intune • Microsoft Purview • Microsoft Sentinel
+- **🔧 Security & Audit Tooling:** Burp Suite • Postman • Tenable Nessus • Qualys • Wireshark • Nmap • Splunk • PowerShell & Zsh/SSH Auditing
+- **🗂️ Governance, Risk & Compliance (GRC):** ISO/IEC 27001:2022 (Lead Implementer) • ISO/IEC 27701:2025 (PIMS) • ISO/IEC 42001 (AIMS) • COBIT 2019 • NIST CSF 2.0 • DORA & EU CRA • ITIL v4
 
 ---
 
-## Certifications & Credentials
+## Certifications & Verified Credentials
+
+### Live Verified Credential Links (Click to Verify on Credly / PeopleCert)
 
 <p align="left">
-  <!-- PECB ISO 27001 Lead Implementer -->
+  <!-- PECB ISO/IEC 27001 Lead Implementer -->
   <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
-    <img src="PASTE_IMAGE_LINK_HERE" alt="PECB ISO 27001 Lead Implementer" width="115">
-  </a>&nbsp;&nbsp;
-  
+    <img alt="PECB ISO/IEC 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2FIEC_27001_Lead_Implementer-8B0000?style=for-the-badge&logo=iso&logoColor=white">
+  </a>
+  <!-- ISC2 SSCP -->
+  <a href="https://www.credly.com/org/isc2/badge/systems-security-certified-practitioner-sscp">
+    <img alt="ISC2 SSCP" src="https://img.shields.io/badge/(ISC)%C2%B2-SSCP-008000?style=for-the-badge&logo=isc2&logoColor=white">
+  </a>
   <!-- CompTIA Security+ -->
   <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
-    <img src="PASTE_IMAGE_LINK_HERE" alt="CompTIA Security+" width="115">
-  </a>&nbsp;&nbsp;
-
+    <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white">
+  </a>
+  <!-- AWS Certified AI Practitioner (AIF-C01) -->
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner">
+    <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+  </a>
+  <!-- ISACA COBIT 2019 -->
+  <a href="https://www.credly.com/org/isaca/badge/cobit-2019-foundation-certificate">
+    <img alt="ISACA COBIT 2019" src="https://img.shields.io/badge/ISACA-COBIT_2019-003366?style=for-the-badge&logo=isaca&logoColor=white">
+  </a>
   <!-- ISC2 Certified in Cybersecurity (CC) -->
   <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
-    <img src="PASTE_IMAGE_LINK_HERE" alt="ISC2 CC" width="115">
-  </a>&nbsp;&nbsp;
-
-  <!-- PCEP Certified Entry-Level Python Programmer -->
+    <img alt="ISC2 CC" src="https://img.shields.io/badge/(ISC)%C2%B2-Certified_in_Cybersecurity_(CC)-00A86B?style=for-the-badge&logo=isc2&logoColor=white">
+  </a>
+  <!-- Microsoft Certified: SC-900 / AZ-900 / AI-900 -->
+  <a href="https://www.credly.com/users/engbnyarambi/badges">
+    <img alt="Microsoft Security, Azure & AI" src="https://img.shields.io/badge/Microsoft-AZ--900_%7C_AI--900_%7C_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  </a>
+  <!-- PCEP Python Programmer -->
   <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
-    <img src="PASTE_IMAGE_LINK_HERE" alt="PCEP Python Programmer" width="115">
-  </a>&nbsp;&nbsp;
-
+    <img alt="PCEP Python" src="https://img.shields.io/badge/Python_Institute-PCEP-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
+  </a>
   <!-- ITIL v4 Foundation -->
   <a href="https://badges.peoplecert.org/Badge/en/2/E267AAF0-F508-4B44-85A6-97A937EF9D15?39">
-    <img src="PASTE_IMAGE_LINK_HERE" alt="ITIL v4 Foundation" width="115">
+    <img alt="ITIL v4 Foundation" src="https://img.shields.io/badge/PeopleCert-ITIL_v4_Foundation-662D91?style=for-the-badge">
   </a>
 </p>
 
-*🔗 [View my full verified credential portfolio on Credly](https://www.credly.com/users/YOUR-CREDLY-USERNAME/badges)*
+<!-- 
+OPTIONAL 3D CREDLY IMAGE GRID: 
+Once you copy each badge's direct PNG URL from https://www.credly.com/users/engbnyarambi/badges (Right-click badge image -> "Copy Image Address"), replace the src="..." links inside this block and remove the HTML comment tags:
+
+<p align="left">
+  <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
+    <img src="PASTE_ISO_27001_CREDLY_IMAGE_URL" alt="PECB ISO/IEC 27001 Lead Implementer" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner">
+    <img src="PASTE_AWS_AIF_CREDLY_IMAGE_URL" alt="AWS Certified AI Practitioner" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/org/isc2/badge/systems-security-certified-practitioner-sscp">
+    <img src="PASTE_SSCP_CREDLY_IMAGE_URL" alt="ISC2 SSCP" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/org/isaca/badge/cobit-2019-foundation-certificate">
+    <img src="PASTE_COBIT_2019_CREDLY_IMAGE_URL" alt="ISACA COBIT 2019" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
+    <img src="PASTE_SECURITY_PLUS_CREDLY_IMAGE_URL" alt="CompTIA Security+" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
+    <img src="PASTE_ISC2_CC_CREDLY_IMAGE_URL" alt="ISC2 CC" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
+    <img src="PASTE_PCEP_CREDLY_IMAGE_URL" alt="PCEP Python Programmer" width="110">
+  </a>
+</p>
+-->
+
+*🔗 [View my full verified credential portfolio on Credly](https://www.credly.com/users/engbnyarambi/badges)*
 
 ---
 
-## Community Leadership
+## Community Leadership & Industry Engagement
 
-* **ISC2 Zimbabwe Chapter:** Chartering Founding Member (Mar 2025 – Present)
-* **APISec University:** Official Ambassador (Aug 2025 – Present)
-* **Center for Cyber Safety and Education:** Volunteer Scholarship Reviewer (Aug 2025 – Present)
+- **PECB Certified Trainer:** Delivering executive and practitioner training across ISO/IEC 27001 (ISMS), ISO/IEC 27701 (PIMS), and Data Protection (CDPO)
+- **ISC2 Zimbabwe Chapter:** Chartering Founding Member (Mar 2025 – Present)
+- **ISACA Harare Chapter:** Active Chapter Member
+- **APISec University:** Official Ambassador (Aug 2025 – Present)
+- **Center for Cyber Safety and Education:** Volunteer Scholarship Reviewer (Aug 2025 – Present)
+- **HackerOne:** Independent Security Researcher
 
 ---
 
@@ -101,8 +148,6 @@ Beyond Academic and Professional works, I am also deeply committed to giving bac
 
 ## Let's Connect
 
-Always open to connecting and collaborating — enterprise governance, threat research, AI security discussions, or community building. 
+Always open to connecting and collaborating on **Enterprise GRC & ISO Advisory**, **AI/ML Security Governance**, **API & Infrastructure VAPT**, **Accredited Cybersecurity Training**, or **Community Building**.
 
----
-
-> _"Security isn't about doing everything. It's about doing the right things for your risks — and being able to prove it."_
+> *"Security isn't about doing everything. It's about doing the right things for your risks — and being able to prove it."*
