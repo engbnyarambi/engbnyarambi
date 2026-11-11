@@ -1,0 +1,22 @@
+name: Update Badges
+
+on:
+  schedule:
+    # Runs automatically every day at 2:00 AM UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Allows you to trigger the workflow manually at any time
+
+jobs:
+  update-badges:
+    name: Update README with Credly Badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Update Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: engbnyarambi
+          NUMBER_LAST_BADGES: 0 # 0 = Automatically expand and display ALL Credly badges (sorted newest first)
+          COMMIT_MESSAGE: "🏆 Automatically updated README with latest Credly certifications"
