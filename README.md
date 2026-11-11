@@ -1,6 +1,6 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity | AI/ML Security | GRC | Data Protection | Offensive Security</div>
-##### <div align="center">PECB Certified Trainer • MSc AI Engineering • ISO 27001 LI • ISO 42001 LI • ISO 27701 LI • SSCP • Sec+ • COBIT 2019 • AWS x3 • Microsoft x4</div>
+### <div align="center">Cybersecurity Engineer | AI/ML Security | GRC | Data Protection | Offensive Security</div>
+##### <div align="center">PECB Certified Trainer • MSc AI Engineering Candidate • ISO 27001 LI • SSCP • Sec+ • COBIT 2019 • AWS x3 • Microsoft x4</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
@@ -12,9 +12,9 @@
 
 ## About Me
 
-I am a **Cybersecurity Engineer**, **Enterprise GRC Consultant**, and **PECB Certified Trainer** specializing in **AI/ML Security**, **GRC & Data Protection**, and **Offensive Security**. Operating in the enterprise financial sector, I secure critical infrastructure by bridging deep technical assurance across web, REST APIs, mobile applications, databases, and cloud workloads with board level governance and regulatory compliance.
+I am a **Cybersecurity Engineer**, **Enterprise GRC Consultant**, and **PECB Certified Trainer** specializing in **Cloud & AI/ML Security**, **Information Security & Data Protection Governance**, and **Offensive Security (VAPT)**. Operating in the enterprise financial sector, I secure critical infrastructure by bridging deep technical assurance—across web, REST APIs, mobile applications, databases, and cloud workloads—with board-level governance and regulatory compliance.
 
-My daily execution spans end-to-end vulnerability assessment and penetration testing (VAPT), enterprise M365 security governance, cloud-native threat detection, and delivering accredited executive training across **ISO/IEC 27001 (ISMS)**, **ISO/IEC 27701 (PIMS)**, **ISO/IEC 42001 (AIMS)**, and **Data Protection** frameworks.
+My day-to-day execution spans end-to-end vulnerability assessment and penetration testing (VAPT), enterprise M365 security governance, cloud-native threat detection, and delivering accredited executive training across **ISO/IEC 27001 (ISMS)**, **ISO/IEC 27701 (PIMS)**, **ISO/IEC 42001 (AIMS)**, and **Data Protection (CDPO)** frameworks.
 
 > 💬 *"The best security is invisible — because it's intuitive."*
 
@@ -38,16 +38,17 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
 
 ## Technical Skillset
 
-- **🛡️ Offensive Security:** Web & API Penetration Testing (OWASP Top 10 / API Top 10) • Network & Infrastructure VAPT • Database Security Auditing (MSSQL, PostgreSQL) • Vulnerability Lifecycle Management
-- **🤖 AI/ML Security:** AI Governance & Risk Management (ISO/IEC 42001) • AWS AI/ML Security (SageMaker, Bedrock, Comprehend) • Adversarial ML Threat Modeling • Python
+- **🛡️ Offensive Security & VAPT:** Web & API Penetration Testing (OWASP Top 10 / API Top 10) • Network & Infrastructure VAPT • Database Security Auditing (MSSQL, PostgreSQL) • Vulnerability Lifecycle Management
+- **🤖 AI/ML Security & Engineering:** AI Governance & Risk Management (ISO/IEC 42001) • AWS AI/ML Security (SageMaker, Bedrock, Comprehend) • Adversarial ML Threat Modeling • Python
 - **☁️ Cloud & Enterprise Security:** Amazon Web Services (AWS) • Microsoft Azure • Microsoft 365 Suite • Microsoft Entra ID • Microsoft Intune • Microsoft Purview • Microsoft Sentinel
 - **🔧 Security & Audit Tooling:** Burp Suite • Postman • Tenable Nessus • Qualys • Wireshark • Nmap • Splunk • PowerShell & Zsh/SSH Auditing
 - **🗂️ Governance, Risk & Compliance (GRC):** ISO/IEC 27001:2022 (Lead Implementer) • ISO/IEC 27701:2025 (PIMS) • ISO/IEC 42001 (AIMS) • COBIT 2019 • NIST CSF 2.0 • DORA & EU CRA • ITIL v4
 
 ---
 
-## Professional Certifications
+## Certifications & Verified Credentials
 
+### Live Verified Credential Links (Click to Verify on Credly / PeopleCert)
 
 <p align="left">
   <!-- PECB ISO/IEC 27001 Lead Implementer -->
@@ -55,7 +56,7 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
     <img alt="PECB ISO/IEC 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2FIEC_27001_Lead_Implementer-8B0000?style=for-the-badge&logo=iso&logoColor=white">
   </a>
   <!-- ISC2 SSCP -->
-  <a href="(https://www.credly.com/badges/d5bb1adf-4932-4e08-9656-4941f7af2b4d)">
+  <a href="https://www.credly.com/org/isc2/badge/systems-security-certified-practitioner-sscp">
     <img alt="ISC2 SSCP" src="https://img.shields.io/badge/(ISC)%C2%B2-SSCP-008000?style=for-the-badge&logo=isc2&logoColor=white">
   </a>
   <!-- CompTIA Security+ -->
@@ -63,15 +64,25 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
     <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white">
   </a>
   <!-- AWS Certified AI Practitioner (AIF-C01) -->
-  <a href="https://www.credly.com/badges/0eb3d0d0-2167-434d-a980-a46e1609abcc">
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner">
     <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
   </a>
   <!-- ISACA COBIT 2019 -->
-  <a href="https://www.credly.com/badges/5909c693-54a4-4f8a-8c7f-0eb38b204ebc">
+  <a href="https://www.credly.com/org/isaca/badge/cobit-2019-foundation-certificate">
     <img alt="ISACA COBIT 2019" src="https://img.shields.io/badge/ISACA-COBIT_2019-003366?style=for-the-badge&logo=isaca&logoColor=white">
   </a>
-
-
+  <!-- ISC2 Certified in Cybersecurity (CC) -->
+  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
+    <img alt="ISC2 CC" src="https://img.shields.io/badge/(ISC)%C2%B2-Certified_in_Cybersecurity_(CC)-00A86B?style=for-the-badge&logo=isc2&logoColor=white">
+  </a>
+  <!-- Microsoft Certified: SC-900 / AZ-900 / AI-900 -->
+  <a href="https://www.credly.com/users/engbnyarambi/badges">
+    <img alt="Microsoft Security, Azure & AI" src="https://img.shields.io/badge/Microsoft-AZ--900_%7C_AI--900_%7C_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  </a>
+  <!-- PCEP Python Programmer -->
+  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
+    <img alt="PCEP Python" src="https://img.shields.io/badge/Python_Institute-PCEP-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
+  </a>
   <!-- ITIL v4 Foundation -->
   <a href="https://badges.peoplecert.org/Badge/en/2/E267AAF0-F508-4B44-85A6-97A937EF9D15?39">
     <img alt="ITIL v4 Foundation" src="https://img.shields.io/badge/PeopleCert-ITIL_v4_Foundation-662D91?style=for-the-badge">
@@ -98,10 +109,16 @@ Once you copy each badge's direct PNG URL from https://www.credly.com/users/engb
   <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
     <img src="PASTE_SECURITY_PLUS_CREDLY_IMAGE_URL" alt="CompTIA Security+" width="110">
   </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
+    <img src="PASTE_ISC2_CC_CREDLY_IMAGE_URL" alt="ISC2 CC" width="110">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
+    <img src="PASTE_PCEP_CREDLY_IMAGE_URL" alt="PCEP Python Programmer" width="110">
+  </a>
 </p>
 -->
 
-
+*🔗 [View my full verified credential portfolio on Credly](https://www.credly.com/users/engbnyarambi/badges)*
 
 ---
 
