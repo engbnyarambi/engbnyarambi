@@ -49,6 +49,15 @@ My day-to-day execution spans end-to-end vulnerability assessment and penetratio
 ## Certifications & Verified Credentials
 
 <!--START_SECTION:badges-->
+[![COBIT® 2019 Foundation Certificate](https://images.credly.com/size/80x80/images/0b899540-af72-46e9-a89c-f8192e1f6c1c/ISACA_COBIT.png)](https://www.credly.com/badges/5909c693-54a4-4f8a-8c7f-0eb38b204ebc)
+[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/0eb3d0d0-2167-434d-a980-a46e1609abcc)
+[![ISO/IEC 27001 Lead Implementer](https://images.credly.com/size/80x80/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png)](https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641)
+[![Systems Security Certified Practitioner (SSCP)](https://images.credly.com/size/80x80/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png)](https://www.credly.com/badges/d5bb1adf-4932-4e08-9656-4941f7af2b4d)
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574)
+[![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png)](https://www.credly.com/badges/10b49b82-84ae-4013-93c7-c2bb6eb06427)
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/80x80/images/c41472fd-83f5-4bfb-a9fe-8c36ca052302/converted20260826-8-gau1ed.png)](https://www.credly.com/users/engbnyarambi/badges)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/f319a0f3-2e74-4b27-ac08-fd289612843b/converted20260826-8-5fmmll.png)](https://www.credly.com/users/engbnyarambi/badges)
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/80x80/images/8c463fa8-c5d8-4d10-aea9-162f2c521181/converted20250822-33-2e2nso.png)](https://www.credly.com/users/engbnyarambi/badges)
 <!--END_SECTION:badges-->
 
 <p align="left">
