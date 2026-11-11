@@ -46,9 +46,8 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
 
 ---
 
-## Certifications & Verified Credentials
+## Professional Certifications
 
-### Live Verified Credential Links (Click to Verify on Credly / PeopleCert)
 
 <p align="left">
   <!-- PECB ISO/IEC 27001 Lead Implementer -->
@@ -71,18 +70,8 @@ My daily execution spans end-to-end vulnerability assessment and penetration tes
   <a href="https://www.credly.com/badges/5909c693-54a4-4f8a-8c7f-0eb38b204ebc">
     <img alt="ISACA COBIT 2019" src="https://img.shields.io/badge/ISACA-COBIT_2019-003366?style=for-the-badge&logo=isaca&logoColor=white">
   </a>
-  <!-- ISC2 Certified in Cybersecurity (CC) -->
-  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
-    <img alt="ISC2 CC" src="https://img.shields.io/badge/(ISC)%C2%B2-Certified_in_Cybersecurity_(CC)-00A86B?style=for-the-badge&logo=isc2&logoColor=white">
-  </a>
-  <!-- Microsoft Certified: SC-900 / AZ-900 / AI-900 -->
-  <a href="https://www.credly.com/users/engbnyarambi/badges">
-    <img alt="Microsoft Security, Azure & AI" src="https://img.shields.io/badge/Microsoft-AZ--900_%7C_AI--900_%7C_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  </a>
-  <!-- PCEP Python Programmer -->
-  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
-    <img alt="PCEP Python" src="https://img.shields.io/badge/Python_Institute-PCEP-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
-  </a>
+
+
   <!-- ITIL v4 Foundation -->
   <a href="https://badges.peoplecert.org/Badge/en/2/E267AAF0-F508-4B44-85A6-97A937EF9D15?39">
     <img alt="ITIL v4 Foundation" src="https://img.shields.io/badge/PeopleCert-ITIL_v4_Foundation-662D91?style=for-the-badge">
@@ -109,16 +98,10 @@ Once you copy each badge's direct PNG URL from https://www.credly.com/users/engb
   <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
     <img src="PASTE_SECURITY_PLUS_CREDLY_IMAGE_URL" alt="CompTIA Security+" width="110">
   </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
-    <img src="PASTE_ISC2_CC_CREDLY_IMAGE_URL" alt="ISC2 CC" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
-    <img src="PASTE_PCEP_CREDLY_IMAGE_URL" alt="PCEP Python Programmer" width="110">
-  </a>
 </p>
 -->
 
-*🔗 [View my full verified credential portfolio on Credly](https://www.credly.com/users/engbnyarambi/badges)*
+
 
 ---
 
