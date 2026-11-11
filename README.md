@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity Engineer | AI/ML Security | GRC | Data Protection | Offensive Security</div>
+### <div align="center">Cybersecurity Engineer & Enterprise GRC Consultant | AI/ML Security | Data Protection | Offensive Security</div>
 ##### <div align="center">PECB Certified Trainer • MSc AI Engineering Candidate • ISO 27001 LI • SSCP • Sec+ • COBIT 2019 • AWS x3 • Microsoft x4</div>
 
 <p align="center">
@@ -48,77 +48,17 @@ My day-to-day execution spans end-to-end vulnerability assessment and penetratio
 
 ## Certifications & Verified Credentials
 
-### Live Verified Credential Links (Click to Verify on Credly / PeopleCert)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <p align="left">
-  <!-- PECB ISO/IEC 27001 Lead Implementer -->
-  <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
-    <img alt="PECB ISO/IEC 27001 Lead Implementer" src="https://img.shields.io/badge/PECB-ISO%2FIEC_27001_Lead_Implementer-8B0000?style=for-the-badge&logo=iso&logoColor=white">
-  </a>
-  <!-- ISC2 SSCP -->
-  <a href="https://www.credly.com/org/isc2/badge/systems-security-certified-practitioner-sscp">
-    <img alt="ISC2 SSCP" src="https://img.shields.io/badge/(ISC)%C2%B2-SSCP-008000?style=for-the-badge&logo=isc2&logoColor=white">
-  </a>
-  <!-- CompTIA Security+ -->
-  <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
-    <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white">
-  </a>
-  <!-- AWS Certified AI Practitioner (AIF-C01) -->
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner">
-    <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
-  </a>
-  <!-- ISACA COBIT 2019 -->
-  <a href="https://www.credly.com/org/isaca/badge/cobit-2019-foundation-certificate">
-    <img alt="ISACA COBIT 2019" src="https://img.shields.io/badge/ISACA-COBIT_2019-003366?style=for-the-badge&logo=isaca&logoColor=white">
-  </a>
-  <!-- ISC2 Certified in Cybersecurity (CC) -->
-  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
-    <img alt="ISC2 CC" src="https://img.shields.io/badge/(ISC)%C2%B2-Certified_in_Cybersecurity_(CC)-00A86B?style=for-the-badge&logo=isc2&logoColor=white">
-  </a>
-  <!-- Microsoft Certified: SC-900 / AZ-900 / AI-900 -->
-  <a href="https://www.credly.com/users/engbnyarambi/badges">
-    <img alt="Microsoft Security, Azure & AI" src="https://img.shields.io/badge/Microsoft-AZ--900_%7C_AI--900_%7C_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  </a>
-  <!-- PCEP Python Programmer -->
-  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
-    <img alt="PCEP Python" src="https://img.shields.io/badge/Python_Institute-PCEP-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
-  </a>
-  <!-- ITIL v4 Foundation -->
   <a href="https://badges.peoplecert.org/Badge/en/2/E267AAF0-F508-4B44-85A6-97A937EF9D15?39">
-    <img alt="ITIL v4 Foundation" src="https://img.shields.io/badge/PeopleCert-ITIL_v4_Foundation-662D91?style=for-the-badge">
+    <img alt="PeopleCert ITIL v4 Foundation" src="https://img.shields.io/badge/PeopleCert-ITIL_v4_Foundation_(Verified)-662D91?style=for-the-badge">
+  </a>
+  <a href="https://www.credly.com/users/engbnyarambi/badges">
+    <img alt="Full Credly Portfolio" src="https://img.shields.io/badge/Credly-View_All_Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
   </a>
 </p>
-
-<!-- 
-OPTIONAL 3D CREDLY IMAGE GRID: 
-Once you copy each badge's direct PNG URL from https://www.credly.com/users/engbnyarambi/badges (Right-click badge image -> "Copy Image Address"), replace the src="..." links inside this block and remove the HTML comment tags:
-
-<p align="left">
-  <a href="https://www.credly.com/badges/db07e423-d6da-4e3b-9436-764684dbe641">
-    <img src="PASTE_ISO_27001_CREDLY_IMAGE_URL" alt="PECB ISO/IEC 27001 Lead Implementer" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner">
-    <img src="PASTE_AWS_AIF_CREDLY_IMAGE_URL" alt="AWS Certified AI Practitioner" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/org/isc2/badge/systems-security-certified-practitioner-sscp">
-    <img src="PASTE_SSCP_CREDLY_IMAGE_URL" alt="ISC2 SSCP" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/org/isaca/badge/cobit-2019-foundation-certificate">
-    <img src="PASTE_COBIT_2019_CREDLY_IMAGE_URL" alt="ISACA COBIT 2019" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/4efcaab5-3ce9-4e54-87a7-41a8466f1574">
-    <img src="PASTE_SECURITY_PLUS_CREDLY_IMAGE_URL" alt="CompTIA Security+" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/7ec439a2-0d8a-4326-bafd-798f3988e8d6">
-    <img src="PASTE_ISC2_CC_CREDLY_IMAGE_URL" alt="ISC2 CC" width="110">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/48847cde-52db-4030-81b4-c30ed3e3ad62">
-    <img src="PASTE_PCEP_CREDLY_IMAGE_URL" alt="PCEP Python Programmer" width="110">
-  </a>
-</p>
--->
-
-*🔗 [View my full verified credential portfolio on Credly](https://www.credly.com/users/engbnyarambi/badges)*
 
 ---
 
