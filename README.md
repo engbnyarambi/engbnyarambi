@@ -1,5 +1,5 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity Engineer & Enterprise GRC Consultant | AI/ML Security | Data Protection | Offensive Security</div>
+### <div align="center">Cybersecurity Engineer | GRC | AI/ML Security | Data Protection | Offensive Security</div>
 ##### <div align="center">PECB Certified Trainer • MSc AI Engineering Candidate • ISO 27001 LI • SSCP • Sec+ • COBIT 2019 • AWS x3 • Microsoft x4</div>
 
 <p align="center">
@@ -38,11 +38,11 @@ My day-to-day execution spans end-to-end vulnerability assessment and penetratio
 
 ## Technical Skillset
 
-- **🛡️ Offensive Security & VAPT:** Web & API Penetration Testing (OWASP Top 10 / API Top 10) • Network & Infrastructure VAPT • Database Security Auditing (MSSQL, PostgreSQL) • Vulnerability Lifecycle Management
-- **🤖 AI/ML Security & Engineering:** AI Governance & Risk Management (ISO/IEC 42001) • AWS AI/ML Security (SageMaker, Bedrock, Comprehend) • Adversarial ML Threat Modeling • Python
+- **🛡️ Offensive Security:** Web & API Penetration Testing (OWASP Top 10 / API Top 10) • Network & Infrastructure VAPT • Database Security Auditing (MSSQL, PostgreSQL) • Vulnerability Lifecycle Management
+- **🤖 AI/ML Security:** AI Governance & Risk Management (ISO/IEC 42001) • AWS AI/ML Security (SageMaker, Bedrock, Comprehend) • Adversarial ML Threat Modeling • Python
 - **☁️ Cloud & Enterprise Security:** Amazon Web Services (AWS) • Microsoft Azure • Microsoft 365 Suite • Microsoft Entra ID • Microsoft Intune • Microsoft Purview • Microsoft Sentinel
-- **🔧 Security & Audit Tooling:** Burp Suite • Postman • Tenable Nessus • Qualys • Wireshark • Nmap • Splunk • PowerShell & Zsh/SSH Auditing
-- **🗂️ Governance, Risk & Compliance (GRC):** ISO/IEC 27001:2022 (Lead Implementer) • ISO/IEC 27701:2025 (PIMS) • ISO/IEC 42001 (AIMS) • COBIT 2019 • NIST CSF 2.0 • DORA & EU CRA • ITIL v4
+- **🔧 Security Tools:** Burp Suite • Postman • Tenable Nessus • Qualys • Wireshark • Nmap • Splunk • PowerShell
+- **🗂️ Governance, Risk & Compliance (GRC):** ISO/IEC 27001 (ISMS) • ISO/IEC 27701 (PIMS) • ISO/IEC 42001 (AIMS) • COBIT 2019
 
 ---
 
