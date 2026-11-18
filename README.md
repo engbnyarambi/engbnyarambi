@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitter.com/engbnyarambi"><img alt="X (Twitter)" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.credly.com/users/engbnyarambi/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly_Portfolio-FF6B00?logo=credly&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
