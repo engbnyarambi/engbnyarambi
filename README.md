@@ -1,6 +1,6 @@
 # <div align="center">Brian T. Nyarambi</div>
-### <div align="center">Cybersecurity Engineer | GRC | AI/ML Security | Data Protection | Offensive Security</div>
-##### <div align="center">PECB Certified Trainer • MSc AI Engineering Candidate • ISO 27001 LI • SSCP • Sec+ • COBIT 2019 • AWS x3 • Microsoft x4</div>
+### <div align="center">Cybersecurity | AI/ML Security | GRC | Data Protection | Offensive Security</div>
+##### <div align="center">PECB Certified Trainer • ISO 27001 LI • ISO 42001 • ISO 27701 • MSc AI Engineering Candidate</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/engbnyarambi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
